@@ -11,7 +11,7 @@ medicoes = [
     Medicao(
         id_tecnico=1,
         id_equipamento=1,
-        data_calibracao="2026-7-28",
+        data_calibracao="2026-7-27",
         params=[
             {
                 "parametro": "Pressão (bar)",
